@@ -84,4 +84,4 @@ https://github.com/RikkaApps/Riru-ModuleTemplate
 
 ## Module API changes
 
-https://github.com/RikkaApps/Riru-ModuleTemplate/blob/master/README.md#api-changes
+https://github.com/RikkaApps/Riru-ModuleTemplate/blob/master/README.md#api-changeshttps://topjohnwu.github.io/Magisk/changes.html#v290-2025514
